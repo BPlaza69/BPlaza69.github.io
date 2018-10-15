@@ -23,4 +23,11 @@ p{
 h2{
   font-size: 1em;
   color: white;
+  float: right;
+}
+
+ul{
+  text-decoration: none;
+  font-size: 2em;
+  color: orange;
 }
