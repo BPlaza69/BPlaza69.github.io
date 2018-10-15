@@ -1,0 +1,22 @@
+nav a {
+  text-decoration: none;
+  color: red;
+  padding: 3em;
+}
+
+img {
+  float: left;
+  width: 500px;
+}
+
+body background{
+  width: 30px;
+}
+
+h1{
+  color: white;
+}
+
+p{
+  color: white;
+}
