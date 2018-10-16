@@ -27,6 +27,10 @@ h2{
   float: right;
 }
 
+label {
+  color: white;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -54,7 +58,6 @@ input[type=submit]:hover {
 
 .container {
     border-radius: 5px;
-    background-image: radial-gradient(circle, #53a854, #4c9753, #478651, #43754d, #406449);
     padding: 10px;
 }
 
